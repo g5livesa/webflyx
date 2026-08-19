@@ -1,0 +1,66 @@
+[33mcommit 7fd966a0da36aa6c32facfce6ee6dbeb4cda7afc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mupdate_dune[m[33m)[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 23:28:37 2026 +0100
+
+    I: Fear is the mind-killer
+
+[33mcommit 6966ddd1c4bb53f8eed86fd3c4dad847d06e328e[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 23:27:50 2026 +0100
+
+    H: The spice must flow
+
+[33mcommit 759d77eed8c923ca55fcd5340505a61223c89b9f[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 23:25:50 2026 +0100
+
+    H: The spice must flow
+
+[33mcommit b350fe157a9ac8aeb176ae42997994a2929d4919[m[33m ([m[1;32mmain[m[33m)[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 22:50:20 2026 +0100
+
+    G: update titles
+
+[33mcommit e5a208489eecfc75e1af5b5f2480d7d393e546c3[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 22:43:18 2026 +0100
+
+    F: Merge branch 'add_classics'
+
+[33mcommit 07e86cd04258f9fe97af4004381cb5b83a5a2f99[m
+Merge: 461996c 0feb431
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 22:30:51 2026 +0100
+
+    Merge branch 'add_classics'
+
+[33mcommit 461996c267ad4b27dccd09678353fa4aef8e6fc6[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 22:27:13 2026 +0100
+
+    E: contents.md
+
+[33mcommit 0feb4316014a742219ca437f485310e79d660338[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Sat Aug 15 22:16:12 2026 +0100
+
+    D:add_classics
+
+[33mcommit 7eebcb55d9bcec412fa2c90c83d8cf04ce2431cf[m[33m ([m[1;32mmy_new_branch[m[33m)[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Tue Aug 11 01:10:29 2026 +0100
+
+    C: add quotes
+
+[33mcommit 05a07509125340324dcc8f1e7c3ceedfa53f44c5[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Tue Aug 11 00:51:52 2026 +0100
+
+    B: add titles.md
+
+[33mcommit 3080d6340b6efb7cf9697d18a38a2f47dd9839ab[m
+Author: g5live <g5livesa@gmail.com>
+Date:   Tue Aug 11 00:14:17 2026 +0100
+
+    A: add contents.md
